@@ -42,6 +42,6 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-![snake gif](https://github.com/emRival/emRival/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/MasAz1/MasAz1/refs/heads/main/snake.yml)
 
 ###
