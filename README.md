@@ -32,7 +32,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 
 #### Conect With Me
-![https://www.instagram.com/rifqinaufalaziz/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+<a href="https://www.instagram.com/rifqinaufalaziz/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
 
 <h3 align="left">Play Game</h3>
 
