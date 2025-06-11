@@ -42,6 +42,6 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-![snake gif](https://raw.githubusercontent.com/MasAz1/MasAz1/refs/heads/main/snake.yml)
+![snake gif](https://raw.githubusercontent.com/MasAz1/MasAz1/refs/heads/main/snake.svg)
 
 ###
