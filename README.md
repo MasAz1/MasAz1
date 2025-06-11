@@ -42,6 +42,6 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/emRival/emRival/blob/output/github-contribution-grid-snake-dark.svg)
 
 ###
