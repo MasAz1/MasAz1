@@ -1,3 +1,6 @@
+<!-- Background wrapper -->
+<div style="background: linear-gradient(to right, #1e3c72, #2a5298); padding: 20px; border-radius: 15px; color: white;">
+  
 ![MasAz1](img/rifqi.jpg)
 
 <!--
