@@ -1,6 +1,3 @@
-<!-- Background wrapper -->
-<div style="background: #f5f5dc; padding: 20px; border-radius: 15px; color: #333;">
-  
 ![MasAz1](img/rifqi.jpg)
 
 <!--
@@ -17,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
@@ -24,19 +22,19 @@ Here are some ideas to get you started:
 ###
 -  I’m currently learning [**Laravel**](http://laravel.com) Framwork
 
-#### Skills
+#### 📲 Skills
 <p align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,html,css,php,python,java,js,laravel,arduino&perline=5)](https://skillicons.dev)
 </p>
 
-#### Conect With Me
+#### 🎮 Conect With Me
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/rifqinaufalaziz/)
 
 
 <h3 align="left">Play Game</h3>
 
-###
+####
 ![Snake](https://raw.githubusercontent.com/MasAz1/MasAz1/refs/heads/main/img/snake.svg)
 
-###
+####
