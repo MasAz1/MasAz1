@@ -34,11 +34,6 @@ Here are some ideas to get you started:
 <h3 align="left">Play Game</h3>
 
 ###
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+![Snake](https://raw.githubusercontent.com/MasAz1/MasAz1/refs/heads/main/img/snake.svg)
 
 ###
