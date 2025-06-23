@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 #### 📲 Skills
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,html,css,php,python,java,js,laravel,arduino&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,html,css,php,python,java,vscode,laravel,arduino&perline=5)](https://skillicons.dev)
 </p>
 
 #### 🎮 Conect With Me
